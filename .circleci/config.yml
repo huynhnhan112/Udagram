@@ -9,7 +9,7 @@ jobs:
   build:
     docker:
       # the base image can run most needed actions with orbs
-      - image: "cimg/node:14.15"
+      - image: 'cimg/node:14.15'
     steps:
       # install node and checkout code
       - node/install:
@@ -48,7 +48,7 @@ jobs:
   # deploy step will run only after manual approval
   deploy:
     docker:
-      - image: "cimg/base:stable"
+      - image: 'cimg/base:stable'
       # more setup needed for aws, node, elastic beanstalk
     steps:
       - node/install:
