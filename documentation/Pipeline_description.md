@@ -2,7 +2,7 @@
 
 ## The pipeline will have 2 process are Build and Deploy
 
-#### Build process will run these steps below in order:
+#### Steps Build process:
 1. Spin up environment
 2. Prepare environment variables
 3. Install Node.js 14.15
@@ -15,7 +15,7 @@
 10. Front-End Build
 11. API Build
 
-#### Deploy process will run these steps below in order:
+#### Steps Deploy process:
 1. Spin up environment
 2. Preparing environment variables
 3. Install Node.js 14.15

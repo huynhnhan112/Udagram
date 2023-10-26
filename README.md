@@ -73,8 +73,6 @@ The e2e tests are using Protractor and Jasmine.
 
 ## Link Application
 
-- Front-End Webapp: `http://myawsbucket-nhanhh3.s3-website-us-east-1.amazonaws.com`
+- User can access Web App link via `http://myawsbucket-nhanhh3.s3-website-us-east-1.amazonaws.com`
 
-- Back-End API: `http://udagram-api-dev-env.eba-zc6vbhqk.us-east-1.elasticbeanstalk.com`
-
-- End user can access Front-End Web App link to use `Udagram` application.
+- End point Web App: `http://udagram-api-dev.us-east-1.elasticbeanstalk.com`

@@ -1,7 +1,7 @@
 # Infrastructure Description
 
 ## Infrastructure Diagram:
-![diagram](Infrastructure-diagram.png)
+![diagram](Infrastructure-diagram.jpg)
 
 #### RDS: 
 Store the database via: `database-1.cp6kbspwnz97.us-east-1.rds.amazonaws.com`
